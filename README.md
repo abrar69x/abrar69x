@@ -29,20 +29,19 @@ Currently, I'm learning the basics and trying to improve my skills step by step.
 
 ---
 
-## Projects
+### 🚀 Featured Projects
 
-I haven't built any projects yet.
+* **[First Web Project / Assignment 1](https://abrar69x.github.io/batch-14-assignment-01/)**
+  * A responsive web page built with semantic HTML5 and modern CSS3 styling.
+  * Clean UI layout and beginner-friendly structure.
 
-But I plan to start building projects soon and will add them here.
+* **[Responsive Landing Page](https://abrar69x.github.io/batch-14-assignment-01/)**
+  * Designed using modern CSS, Flexbox, and responsive web design techniques.
 
-###  Upcoming Projects
-
--  School management system 
--  Online Assignment Submission System
--  More small web projects as I learn
-
----
-
+### 🔮 Upcoming Projects
+* School Management System
+* Online Assignment Submission System
+* Interactive Web Applications using JavaScript
 ## Currently Learning
 
 - HTML
