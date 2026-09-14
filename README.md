@@ -68,11 +68,6 @@ Currently, I'm learning the basics and trying to improve my skills step by step.
 
   
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abrar69x&theme=dark" alt="GitHub Streak" />
-</p>
+![Stats](https://komarev.com/ghpvc/?username=abrar69x&color=blue)
 
 ### Thanks for visiting my profile! 
