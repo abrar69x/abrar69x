@@ -72,10 +72,8 @@ But I plan to start building projects soon and will add them here.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrar69x&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrar69x&layout=compact&theme=default)
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abrar69x&theme=dark" alt="GitHub Streak" />
+</p>
 
 ### Thanks for visiting my profile! 
